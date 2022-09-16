@@ -61,7 +61,7 @@ class Calculator {
                 result = _previousOperand / _currentOperand;
                 break;
 
-            case 'x':
+            case 'X':
                 result = _previousOperand * _currentOperand;
                 break;
             default:
